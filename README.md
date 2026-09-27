@@ -1,7 +1,3 @@
-<p align="center">
-    <img alt="AI Engineering Interview Questions Company Wise" src="https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise/blob/main/assets/banner.png">
-</p>
-
 # AI Engineering Interview Questions Company Wise
 
 > AI Engineering Interview Questions Company Wise - Your Cheat Sheet For AI Engineering Interviews at Top AI Companies
